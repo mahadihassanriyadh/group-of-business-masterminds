@@ -1,0 +1,56 @@
+[
+  {
+    "key": "615086b153a364225ba0aff3",
+    "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-masterminds-images/jeff-bezos.png",
+    "age": 57,
+    "name": "Jeff Bezos",
+    "gender": "male",
+    "company": "Amazon",
+    "wealth": 196.3
+  },
+  {
+    "key": "615086b19bb1b829fdb85e6c",
+    "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-masterminds-images/mukesh-ambani.png",
+    "age": 64,
+    "name": "Mukesh Ambani",
+    "gender": "male",
+    "company": "Reliance Industries",
+    "wealth": 96
+  },
+  {
+    "key": "615086b10c9e0473754a7e22",
+    "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-masterminds-images/mark.png",
+    "age": 37,
+    "name": "Mark Zuckerberg",
+    "gender": "male",
+    "company": "Facebook",
+    "wealth": 122.7
+  },
+  {
+    "key": "615086b1545eb2d20a51abe2",
+    "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-masterminds-images/warren.png",
+    "age": 91,
+    "name": "Warren Buffett",
+    "gender": "male",
+    "company": "Berkshire Hathaway",
+    "wealth": 99.4
+  },
+  {
+    "key": "615086b17aa15ac46778d62e",
+    "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-masterminds-images/elon.png",
+    "age": 50,
+    "name": "Elon Musk",
+    "gender": "male",
+    "company": "Tesla Motors",
+    "wealth": 194.6
+  },
+  {
+    "key": "615086b1139b7c4add8b1e34",
+    "picture": "https://raw.githubusercontent.com/mahadihassanriyadh/images/main/business-masterminds-images/jack.png",
+    "age": 57,
+    "name": "Jack Ma",
+    "gender": "male",
+    "company": "Ali Baba Group",
+    "wealth": 39.8
+  }
+]

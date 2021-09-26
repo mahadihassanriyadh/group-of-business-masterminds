@@ -1,0 +1,15 @@
+.display-name{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    padding: 15px 50px;
+    border-radius: 10px;
+}
+
+.display-name img{
+    width: 100px;
+    margin-left: 20px;
+}

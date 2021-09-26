@@ -1,0 +1,26 @@
+.mastermind-section{
+    text-align: center;
+    background-color: rgb(237, 223, 251);
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.mastermind-section img{
+    width: 200px;
+}
+
+.mastermind-section button{
+    width: 160px;
+    height: 40px;
+    background-color: blueviolet;
+    color: white;
+    border: 2px solid lightgray;
+    border-radius: 8px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.icon{
+    margin-right: 8px;
+}
